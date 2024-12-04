@@ -3,3 +3,4 @@ aws master course
 gen AI
 python
 Java clouds
+google clouds platform
